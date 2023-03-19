@@ -1,5 +1,45 @@
-h3 {
-    color: pink;
-    background-color: blueviolet;
+html {
+    background-color: black;
+    display: block;
+    align-content: center;
     text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.travel_guide p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.coming img {
+    padding-top: 30px;
+}
+
+footer
+p {
+    color: gray;
+    text-align: right;
+    padding-right: 40px;
+    font-size: 20px;
 }
